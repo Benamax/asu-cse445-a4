@@ -4,9 +4,9 @@
 			elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xsd:element name="Hotels">
 		<xsd:complexType>
-			<xsd:all>
+			<xsd:sequence>
 				<xsd:element name="Hotel" minOccurs="0" maxOccurs="unbounded"/>
-			</xsd:all>
+			</xsd:sequence>
 		</xsd:complexType>
 	</xsd:element>
 	<xsd:element name="Hotel">
