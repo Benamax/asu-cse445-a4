@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:ns="https://benamax.github.io/asu-cse445-a4/Hotels.xsd"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="https://benamax.github.io/asu-cse445-a4/Hotels.xsd">
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Name>The Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Hampton Inn</Name>
+		<Phone>623-536-1313</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>2000</Number>
+			<Street>N. Litchfield Rd</Street>
+			<City>Goodyear</City>
+			<State>AZ</State>
+			<Zip>85395</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Hilton</Name>
+		<Phone>602-997-2626</Phone>
+		<Phone>800-947-9784</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>7677</Number>
+			<Street>N. 16th St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85020</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Talking Stick</Name>
+		<Phone>480-850-7777</Phone>
+		<Phone>866-877-9897</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>9800</Number>
+			<Street>Talking Stick Way</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85256</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Marriot</Name>
+		<Phone>520-792-4100</Phone>
+		<Address>
+			<Number>880</Number>
+			<Street>E. 2nd St</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85719</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Wilde</Name>
+		<Phone>928-203-4111</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>2250</Number>
+			<Street>W. State Rte 89A</Street>
+			<City>Sedona</City>
+			<State>AZ</State>
+			<Zip>86336</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>Home2 Suites</Name>
+		<Phone>575-527-6491</Phone>
+		<Address NearstAirport="El Paso International Airport">
+			<Number>1120</Number>
+			<Street>N. Nelshor Blvd</Street>
+			<City>Las Cruces</City>
+			<State>NM</State>
+			<Zip>88011</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Courtyard</Name>
+		<Address NearstAirport="John Wayne Airport">
+			<Number>1420</Number>
+			<Street>S. Harbor Blvd</Street>
+			<City>Anaheim</City>
+			<State>CA</State>
+			<Zip>92802</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Ocean Villa</Name>
+		<Phone>619-224-3481</Phone>
+		<Phone>800-759-0012</Phone>
+		<Address NearstAirport="San Diego International Airport">
+			<Number>5142</Number>
+			<Street>W. Point Loma Blvd</Street>
+			<City>San Diego</City>
+			<State>CA</State>
+			<Zip>92107</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.9">
+		<Name>Loba Luna</Name>
+		<Phone>505-525-5764</Phone>
+		<Address NearstAirport="Albuquerque International Sunport">
+			<Number>414</Number>
+			<Street>C De Baca Ln</Street>
+			<City>Albuquerque</City>
+			<State>NM</State>
+			<Zip>87114</Zip>
+	</Hotel>
+</Hotels>
